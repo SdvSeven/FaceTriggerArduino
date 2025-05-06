@@ -70,5 +70,7 @@ void loop() {
 }
 ```
 
+## 📜 Main Code: Face Recognition and Servo Control 
+
 📄 License
 MIT — free to use, modify, and share.
